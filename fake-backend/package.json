@@ -1,0 +1,16 @@
+{
+  "name": "fake-backend",
+  "version": "1.0.0",
+  "description": "fake-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "author": "felipe.corerato",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "the-fake-backend": "3.9.0"
+  }
+}

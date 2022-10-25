@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/fake-backend/node_modules
 
 # testing
 /coverage
